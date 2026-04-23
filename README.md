@@ -1,2 +1,2 @@
-# plantas-medicinales
-inventario plantas medicinales
+﻿# plantas-medicinales
+Inventario de plantas medicinales
